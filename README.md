@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Hoàng Nguyễn </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->I am
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+Developer,;Computer+Science+Student,;Love+to+learn+new+stuffs"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Fullstack+Developer,;Software+Engineer,;Love+to+learn+new+stuffs"></a>
 </p>
 
 
@@ -9,7 +9,7 @@
 
 ![](https://komarev.com/ghpvc/?username=hnoga-n)
 
-🎓&nbsp;I'm currently studying Computer Science at Sai Gon University, Viet Nam.
+🎓&nbsp;I'm currently studying Software Development at Sai Gon University, Viet Nam.
 
 👨‍💻&nbsp;I'm a passionate Fullstack web developer.
 
