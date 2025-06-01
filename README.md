@@ -33,15 +33,12 @@
 <a href= https://fastapi.tiangolo.com/ > <img width ='32px' src ='https://vectorwiki.com/images/i0tvc__fastapi.svg'> </a>
 <a href= https://tailwindcss.com/ > <img width ='32px' src ='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg'> </a>
 <a href= https://go.dev/ > <img width ='32px' src ='https://www.vectorlogo.zone/logos/golang/golang-icon.svg'> </a>
-<a href= https://kafka.apache.org/ > <img width ='32px' src ='https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg'> </a>
 
 <h3>Tool</h3>
 
 <a href= https://git-scm.com/ > <img width ='32px' src ='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg'> </a>
-<a href= https://github.com/ > <img width ='32px' src ='https://www.vectorlogo.zone/logos/github/github-tile.svg'> </a>
 <a href= https://ubuntu.com/ > <img width ='32px' src ='https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg'> </a>
 <a href= https://www.docker.com/ > <img width ='32px' src ='https://www.vectorlogo.zone/logos/docker/docker-icon.svg'> </a>
-<a href= https://www.jetbrains.com/idea/ > <img width ='32px' src ='https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg'> </a>
 
 <h3>Database</h3>
 <a href= https://www.mysql.com/ > <img width ='32px' src ='https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg'> </a>
@@ -49,14 +46,7 @@
 <a href= https://www.prisma.io/ > <img width ='32px' src ='https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/prisma.svg'> </a>
 <a href= https://www.mongodb.com/ > <img width ='32px' src ='https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg'> </a>
 
-<h3>IDE</h3>
-<a href= https://code.visualstudio.com/ > <img width ='32px' src ='https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg'> </a>
-<a href= https://visualstudio.microsoft.com/ > <img width ='32px' src ='https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/visual-studio.svg'> </a>
-<a href= https://www.jetbrains.com/idea/ > <img width ='32px' src ='https://upload.vectorlogo.zone/logos/jetbrains_idea/images/d4398a36-c378-4511-a508-106ded6cd69a.svg'> </a>
-
-
 <h2> GitHub Analytics </h2>
-
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hnoga-n&show_icons=true&theme=radical"/>
@@ -68,7 +58,5 @@
 
 <a href= https://www.facebook.com/hoang.nguyen.290646/ target=_blank> <img width ='50px' src ='https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif'> </a>
 <a href= https://www.linkedin.com/in/hnoga-nh/ target=_blank > <img width ='50px' src ='https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif'> </a>
-<a href= https://www.instagram.com/hnoga__/ target=_blank> <img width ='50px' src ='https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif'> </a>
-
 
 
