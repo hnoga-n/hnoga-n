@@ -46,13 +46,13 @@
 <a href= https://www.prisma.io/ > <img width ='32px' src ='https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/prisma.svg'> </a>
 <a href= https://www.mongodb.com/ > <img width ='32px' src ='https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg'> </a>
 
-<h2> GitHub Analytics </h2>
+<!-- <h2> GitHub Analytics </h2>
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hnoga-n"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hnoga-n&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"/>
 </a>
-</p>
+</p> -->
 
 <h2> Connect with me <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"  width = 50px > </h2>
 
